@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DynaRankR"]
-	path = DynaRankR
-	url = https://github.com/straussed/dynarankr
-	shallow = true
-	registered = true
